@@ -1,5 +1,3 @@
-![264141683-8aa99f6c-267d-4977-9cd3-1a4c11675863](https://github.com/user-attachments/assets/130b07a2-18c5-4dc3-85ee-319714fb7cee)
-
 <h1 align="center">Hello 👋 Moi, c'est Cyriac</h1>
 <h3 align="center">Développeur Full-Stack passionné</h3>
 

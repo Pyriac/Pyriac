@@ -12,14 +12,14 @@
 `error: pathspec 'found' did not match any file(s) known to git`<br/>
 *... for the moment* 👀
 
-<h3 align="left">Me retrouver:</h3>
-<p align="left">
+<h3 align="center">Me retrouver:</h3>
+<p align="center">
 <a href="https://www.linkedin.com/in/cyriac-pineau-2bb141258/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/cyriac-pineau-2bb141258/" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Mes languages et outils:</h3>
+<h3 align="center">Mes languages et outils:</h3>
 
-<table">
+<table>
   <tr>
     <td>
       <div style="display: flex; flex-wrap: wrap;">

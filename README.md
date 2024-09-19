@@ -1,6 +1,6 @@
 <h1 align="center">Hello 👋 Moi, c'est Cyriac</h1>
 <h3 align="center">Développeur Full-Stack passionné</h3>
-
+<div align ="center">
 - 🔭 Je travail actuellement sur [Externatic](https://github.com/WildCodeSchool-2024-02/JS-RemoteFR-CodeOfWar-P3-externatic)
 
 - 🌱 J'étudie actuellement **React, MySQL, Node.js, express**
@@ -11,7 +11,7 @@
 `git checkout found`<br/>
 `error: pathspec 'found' did not match any file(s) known to git`<br/>
 *... for the moment* 👀
-
+</div>
 <h3 align="center">Me retrouver:</h3>
 <p align="center">
 <a href="https://www.linkedin.com/in/cyriac-pineau-2bb141258/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/cyriac-pineau-2bb141258/" height="30" width="40" /></a>

@@ -7,9 +7,9 @@
 
 - 📫 Vous pouvez me joindre ici **cyriacpineau@gmail.com**
 
-`git add alternance`
-`git checkout found`
-`error: pathspec 'found' did not match any file(s) known to git`
+`git add alternance`<br/>
+`git checkout found`<br/>
+`error: pathspec 'found' did not match any file(s) known to git`<br/>
 *... for the moment* 👀
 
 <h3 align="left">Me retrouver:</h3>

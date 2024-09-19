@@ -22,6 +22,8 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></p>
 
+<p align="right"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="100" height="70"/></p>
+
 <!--
 **Pyriac/Pyriac** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

@@ -19,9 +19,9 @@
 
 <h3 align="left">Mes languages et outils:</h3>
 
-<table style="border: 0; width: 100%;">
+<table">
   <tr>
-    <td style="width: 80%;">
+    <td>
       <div style="display: flex; flex-wrap: wrap;">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
@@ -38,7 +38,7 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
       </div>
     </td>
-    <td style="width: 20%; vertical-align: top;">
+    <td align="right">
       <img src="https://github.com/user-attachments/assets/130b07a2-18c5-4dc3-85ee-319714fb7cee" alt="big-image" width="250" height="200"/>
     </td>
   </tr>

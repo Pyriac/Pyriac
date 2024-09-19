@@ -1,9 +1,9 @@
 <h1 align="center">Hello 👋 Moi, c'est Cyriac</h1>
 <h3 align="center">Développeur Full-Stack passionné</h3>
-<div align ="center" style="display:flex; flex-direction:column">
- 🔭 Je travail actuellement sur <a href="https://github.com/WildCodeSchool-2024-02/JS-RemoteFR-CodeOfWar-P3-externatic">Externatic</a>
- 🌱 J'étudie actuellement React, MySQL, Node.js, express
- 📫 Vous pouvez me joindre ici cyriacpineau@gmail.com
+<div align ="center">
+ <p>🔭 Je travail actuellement sur <a href="https://github.com/WildCodeSchool-2024-02/JS-RemoteFR-CodeOfWar-P3-externatic">Externatic</a></p>
+ <p>🌱 J'étudie actuellement React, MySQL, Node.js, express</p>
+<p>📫 Pour toutes questions, je suis joignable à cette adresse : cyriacpineau@gmail.com</p> 
 
 `git add alternance`<br/>
 `git checkout found`<br/>

@@ -17,7 +17,7 @@
 
 <h3 align="center">Mes languages et outils:</h3>
 
-<table>
+<table align="center">
   <tr>
     <td>
       <div style="display: flex; flex-wrap: wrap;">

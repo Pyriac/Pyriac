@@ -16,11 +16,11 @@
  <tr>
   <td>
    <p align="center"><a href="https://github.com/Pyriac/work-diary">Work-Diary</a></p>
-   <img src="https://github.com/user-attachments/assets/217a29dd-417a-4355-a25b-73730ae9caa5" alt="Work-Diary" width="500" height="250"/>
+   <img src="https://github.com/user-attachments/assets/217a29dd-417a-4355-a25b-73730ae9caa5" alt="Work-Diary" width="500"/>
   </td>
   <td>
    <p align="center"><a href="https://github.com/WildCodeSchool-2024-02/JS-RemoteFR-CodeOfWar-P3-externatic">Externatech</a></p>
-  <img src="https://github.com/user-attachments/assets/c6c97446-20a4-49d4-a1e8-ebb4c27201c5" alt="Externatech" width=500" height="250"/></td>
+  <img src="https://github.com/user-attachments/assets/c6c97446-20a4-49d4-a1e8-ebb4c27201c5" alt="Externatech" width=500" /></td>
  </tr>
  <tr>
   <td>
@@ -31,7 +31,7 @@
   </td>
   <td>
    <p align="center"> <a href="https://github.com/Pyriac/StabAlp-REact">Stab'Alp</a></p>
-<img src="https://github.com/user-attachments/assets/841c397a-f334-48c0-a7ff-964236231e1b" alt="Stab' Alp" width="500" height="250">
+<img src="https://github.com/user-attachments/assets/841c397a-f334-48c0-a7ff-964236231e1b" alt="Stab' Alp" width="500" >
   </td>
  </tr>
  <tr>

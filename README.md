@@ -11,6 +11,7 @@
 *... for the moment* 👀
 </div>
 
+---
 <h3 align="center">Mes Derniers Projets :</h3>
 <table align="center">
  <tr>
@@ -45,17 +46,18 @@
  </tr>
 </table>
 
+---
 <h3 align="center">Me retrouver:</h3>
 <p align="center">
 <a href="https://www.linkedin.com/in/cyriac-pineau-2bb141258/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/cyriac-pineau-2bb141258/" height="30" width="40" /></a>
 </p>
 
+---
 <h3 align="center">Mes languages et outils:</h3>
-
 <table align="center">
   <tr>
-    <td>
-      <div style="display: flex; flex-wrap: wrap;">
+    <td width="500">
+      <div align="center" style="display: flex; flex-wrap: wrap;">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/>
@@ -71,11 +73,21 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
       </div>
     </td>
-    <td align="right">
+    <td align="center" width="500">
       <img src="https://github.com/user-attachments/assets/130b07a2-18c5-4dc3-85ee-319714fb7cee" alt="big-image" width="280" height="200"/>
     </td>
   </tr>
 </table>
+
+---
+<div width="1000" >
+  <a href="https://github.com/Pyriac/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pyriac&layout=donut&theme=aura_dark&size_weight=0.5&count_weight=0.5" alt="Top Langs" />
+  </a>
+  <a href="https://github.com/Pyriac/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=Pyriac&theme=aura_dark&hide=stars,issues" alt="GitHub Stats" width="400" height="220" align="right" />
+  </a>
+</div>
 
 
 

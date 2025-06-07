@@ -1,18 +1,6 @@
-<h1 align="center">Hello 👋 Moi, c'est Cyriac</h1>
-<h3 align="center">Développeur Full-Stack passionné</h3>
-<div align ="center">
- <p>🔭 Je travail actuellement sur <a href="https://github.com/WildCodeSchool-2024-02/JS-RemoteFR-CodeOfWar-P3-externatic">Externatic</a> et <a href="https://github.com/Pyriac/work-diary">Work-diary</a></p>
- <p>🌱 J'étudie à la WildCodeSchool : React, MySQL, Node.js, express</p>
-<p>📫 Pour toutes questions, je suis joignable à cette adresse : cyriacpineau@gmail.com</p> 
-
-`git add alternance`<br/>
-`git checkout found`<br/>
-`error: pathspec 'found' did not match any file(s) known to git`<br/>
-*... for the moment* 👀
-</div>
-
+<h1 align="center">Hello there👋</h1>
 ---
-<h3 align="center">Mes Derniers Projets :</h3>
+<h3 align="center">Last projects :</h3>
 <table align="center">
  <tr>
   <td>
@@ -47,13 +35,13 @@
 </table>
 
 ---
-<h3 align="center">Me retrouver:</h3>
+<h3 align="center">Find me:</h3>
 <p align="center">
 <a href="https://www.linkedin.com/in/cyriac-pineau-2bb141258/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/cyriac-pineau-2bb141258/" height="30" width="40" /></a>
 </p>
 
 ---
-<h3 align="center">Mes languages et outils:</h3>
+<h3 align="center">Languages and tools:</h3>
 <table align="center">
   <tr>
     <td width="500">
